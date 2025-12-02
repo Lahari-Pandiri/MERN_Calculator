@@ -81,7 +81,8 @@ npm start
 node server.js
 
 ## 📸 Screenshots (Add Your UI Images)
-### ![Calculator UI](assets/calculator.png)
+![Calculator UI](assets/calculator.png)
+
 
 
 
