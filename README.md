@@ -80,6 +80,10 @@ npm start
 ### 5️⃣ Start the Backend
 node server.js
 
+## 📸 Screenshots (Add Your UI Images)
+### ![Calculator UI](assets/calculator.png)
+
+
 
 ## 💡 Future Enhancements
 
