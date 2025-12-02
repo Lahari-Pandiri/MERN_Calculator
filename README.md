@@ -78,7 +78,7 @@ npm install
 npm run dev
 
 ### 5️⃣ Start the Backend
-node start
+npm start
 
 ## 📸 Screenshots (Add Your UI Images)
 ![Calculator UI](assets/calculator.png)
