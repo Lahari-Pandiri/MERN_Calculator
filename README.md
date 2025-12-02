@@ -75,10 +75,10 @@ cd ../server
 npm install
 
 ### 4️⃣ Start the Frontend
-npm start
+npm run dev
 
 ### 5️⃣ Start the Backend
-node server.js
+node start
 
 ## 📸 Screenshots (Add Your UI Images)
 ![Calculator UI](assets/calculator.png)
